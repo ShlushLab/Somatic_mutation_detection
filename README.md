@@ -10,7 +10,7 @@ Filtering: Filters variants based on defined criteria.
 Output: Generates a clean, high-quality variant dataset for further analysis.
 
 ## Repository Contents
-variant_filtering.R: The main R script for variant filtering and preprocessing.
+The main R script for variant filtering and preprocessing.
 
 ## Prerequisites
 Tools and Libraries:
